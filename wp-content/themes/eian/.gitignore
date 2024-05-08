@@ -1,0 +1,9 @@
+scss/.sass-cache
+bower_components
+.bower-cache
+.bower-registry
+.bower-tmp
+.idea/
+_book
+nbproject
+nbproject/private/
